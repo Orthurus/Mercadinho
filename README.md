@@ -27,7 +27,7 @@ Roda no Windows como um único `.exe`, sem instalar nada, e se atualiza sozinho 
 
 Dica: digitar `3*código` no campo de código adiciona 3 unidades.
 
-## Para usar (seu pai)
+## Para usar
 
 1. Baixe o `Mercadinho.exe` na aba **Releases** (versão mais recente).
 2. Copie para uma pasta como *Documentos* e abra.
